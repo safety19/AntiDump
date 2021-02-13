@@ -3,7 +3,7 @@
 void ErasePEHeaderFromMemory()
 {
 
-    // ErasePEHeaderFromMemory will delete images prevint a successful image
+    // ErasePEHeaderFromMemory will delete images preventing a successful image
     DWORD OldProtect = 0;
 
     // gets base
